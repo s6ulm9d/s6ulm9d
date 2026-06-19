@@ -1,288 +1,330 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=s6ulm9d&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=I+build+at+the+edge+of+what%27s+possible&descSize=22&descAlignY=62&descColor=00ffff&stroke=00ffff&strokeWidth=2" width="100%"/>
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ANIMATED TYPING HEADER                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Hi%2C+I'm+Megha+Sairaj+%F0%9F%91%8B;Building+at+the+Edge+of+Reality+%F0%9F%8C%8C;WebGL+%E2%80%A2+Hacking+%E2%80%A2+3D+Systems+%F0%9F%92%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2500&pause=800&color=FF2A5F&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=%E2%9A%A1+Offensive+Security+Engineer;%F0%9F%8C%8C+WebGL+%26+GPU+Particle+Alchemist;%F0%9F%A4%96+AI-Augmented+Systems+Builder;%F0%9F%92%8E+Founder+%40+Algoryx+Studio)](https://algoryx.in)
 
 <br/>
 
-<!-- GLOWING STATUS BADGE ROW -->
-[![Profile Views](https://komarev.com/ghpvc/?username=s6ulm9d&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/s6ulm9d)
-[![GitHub followers](https://img.shields.io/github/followers/s6ulm9d?color=ff2a5f&logo=github&style=for-the-badge&label=FOLLOWERS)](https://github.com/s6ulm9d)
-[![Website](https://img.shields.io/badge/algoryx.in-LIVE-%2300ffff?style=for-the-badge&logo=vercel&logoColor=white)](https://algoryx.in)
+<a href="https://algoryx.in"><img src="https://img.shields.io/badge/%F0%9F%8C%90_algoryx.in-LIVE-00ffff?style=for-the-badge&labelColor=0a0a0a&color=00ffff" /></a>
+<a href="https://github.com/s6ulm9d?tab=followers"><img src="https://img.shields.io/github/followers/s6ulm9d?color=ff2a5f&logo=github&style=for-the-badge&label=FOLLOWERS&labelColor=0a0a0a" /></a>
+<img src="https://komarev.com/ghpvc/?username=s6ulm9d&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0a0a0a" />
+<a href="mailto:admin@algoryx.in"><img src="https://img.shields.io/badge/%F0%9F%93%A7_admin%40algoryx.in-CONTACT-a855f7?style=for-the-badge&labelColor=0a0a0a" /></a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header" width="100%"/>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/s6ulm9d/s6ulm9d/master/assets/particle.gif" alt="3D Particle Animation" onerror="this.style.display='none'" />
+<!-- ██████████████████████████████████████████████ -->
+<!--                   WHOAMI PANEL                 -->
+<!-- ██████████████████████████████████████████████ -->
 
-### 🔴 `> whoami`
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```bash
-Name     : Megha Sairaj
-Handle   : s6ulm9d
-Role     : Software Engineer & Offensive Security Researcher
-Location : India 🇮🇳
-Studio   : Algoryx [algoryx.in]
-Focus    : WebGL 3D Systems | Red Team Engineering | AI Tools
-Status   : Building something crazy... 🔥
+```
+╔══════════════════════════════════════════╗
+║         SYSTEM IDENTIFICATION            ║
+╠══════════════════════════════════════════╣
+║  handle   ›  s6ulm9d                     ║
+║  name     ›  Megha Sairaj                ║
+║  role     ›  Engineer / Founder          ║
+║  studio   ›  Algoryx [algoryx.in]        ║
+║  location ›  India 🇮🇳                   ║
+╠══════════════════════════════════════════╣
+║  SPECIALIZATION                          ║
+║  ├── WebGL & GPU Particle Systems        ║
+║  ├── Offensive Security Engineering      ║
+║  ├── AI-Integrated Automation            ║
+║  └── 3D Interactive Web Experiences      ║
+╠══════════════════════════════════════════╣
+║  STATUS   ›  🔴 BUILDING IN STEALTH      ║
+╚══════════════════════════════════════════╝
 ```
 
-<br clear="right"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      WHAT I DO SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=FF2A5F&center=true&vCenter=true&width=500&lines=%E2%96%B6+Offensive+Engineering+%26+Adversarial+Emulation;%E2%96%B6+High-Performance+WebGL+%26+GPU+Simulation;%E2%96%B6+AI-Integrated+Automation+Pipelines;%E2%96%B6+Premium+3D+Interactive+Experiences" alt="What I Do" />
-</div>
+</td>
+<td width="45%" valign="top" align="center">
 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=00FFFF&center=true&vCenter=true&width=320&lines=%24+ping+algoryx.in;PONG+%E2%80%94+64+bytes+from+algoryx.in;%24+nmap+-sV+reality.sh;PORT+443%2Ftcp+open+%5Bdreams%5D;%24+exploit+--target+limits;%5BSHELL+OBTAINED%5D+%F0%9F%92%80;%24+cat+%2Fetc%2Fshadow;Access+granted.+Build+mode+ON.)](https://algoryx.in)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=s6ulm9d&theme=radical&column=3&margin-w=6&margin-h=6&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header" width="100%"/>
+
+<!-- ██████████████████████████████████████████████ -->
+<!--                 WHAT I BUILD                   -->
+<!-- ██████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11&height=70&section=header&text=%E2%9A%A1+WHAT+I+BUILD&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🔒 Offensive Engineering**
-> Designing automated security validation engines (like [BREAKPOINT](https://github.com/s6ulm9d/Breakpoint)) to test and build resilient defensive architectures. Real-world adversarial emulation — not compliance theatre.
-
-- Red Teaming & Custom Payload Engineering
-- AI-driven adaptive attack chains
-- AsyncIO concurrent penetration frameworks
-- Forensic evasion & defensive bypass
+```yaml
+domain: Red Teaming
+tools:
+  - AsyncIO payload engines
+  - AI-adaptive attack chains  
+  - Forensic evasion systems
+  - Concurrency frameworks
+goal: >
+  Build what breaks systems
+  so defenders can fix them.
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**🌌 WebGL & GPU Systems**
-> Engineering GPU-accelerated 3D experiences at the frontier of browser performance. 250,000+ particles. Zero compromises.
+**🌌 GPU / WebGL Systems**
+```yaml
+domain: Real-Time 3D Web
+tools:
+  - Custom GLSL shaders
+  - React Three Fiber (R3F)
+  - FBO particle simulations
+  - Physics spring scroll
+stats:
+  particles: 250,000+
+  target: 60fps on all GPUs
+```
 
-- React Three Fiber & Three.js mastery
-- Custom GLSL vertex/fragment shaders
-- FBO (Framebuffer Object) particle simulations
-- Scroll-driven physics animations
+</td>
+<td width="33%" valign="top">
+
+**🤖 AI × Automation**
+```yaml
+domain: Intelligent Systems
+tools:
+  - AI agent integration
+  - Automated pipelines
+  - LLM-augmented security
+  - GEO/AEO optimization
+philosophy: >
+  AI is a force multiplier.
+  Use it or be left behind.
+```
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████ -->
+<!--                  TECH ARSENAL                  -->
+<!-- ██████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11&height=70&section=header&text=%F0%9F%9B%A1%EF%B8%8F+TECH+ARSENAL&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
-### `> tech_stack --verbose`
+**⬡ Languages & Shaders**
 
-<!-- LANGUAGES -->
-**Languages**
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark&perline=5)](https://skillicons.dev)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-Shaders-5C3EE8?style=for-the-badge&logo=opengl&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> `GLSL` shaders handwritten — vertex pipelines, fragment programs, FBO textures, GPU transform feedback
 
 <br/>
 
-**3D & Graphics**
+**⬡ 3D, Graphics & WebGL**
 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-R3F-00FFFF?style=for-the-badge&logo=react&logoColor=black)
-![WebGL](https://img.shields.io/badge/WebGL-GPU-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=threejs,react,blender,webgl&theme=dark&perline=4)](https://skillicons.dev)
 
-<br/>
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+> React Three Fiber · Drei · WebGL2 · Custom postprocessing · Particle FBO systems · GPGPU
 
 <br/>
 
-**Security & Infrastructure**
+**⬡ Frontend & Backend**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vite,nodejs,express,redux&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+**⬡ Security & Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github,vercel,githubactions&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      KEY PROJECTS SECTION                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████ -->
+<!--                 KEY PROJECTS                   -->
+<!-- ██████████████████████████████████████████████ -->
 
-### `> ls -la ./projects/`
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,11&height=70&section=header&text=%F0%9F%92%8E+PROJECTS&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
 <table>
 <tr>
-  <td align="center" width="50%">
+<td align="center" width="50%">
 
-  **🔒 BREAKPOINT**
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=Breakpoint&theme=radical&title_color=ff2a5f&icon_color=00ffff&text_color=ffffff&bg_color=0d0d0d&border_color=ff2a5f)](https://github.com/s6ulm9d/Breakpoint)
-  
-  `AsyncIO` · `AI Payloads` · `Red Team`
-  
-  *Automated offensive security validation engine. Bridges the gap between compliance security and real-world resilience.*
+### 🔒 [BREAKPOINT](https://github.com/s6ulm9d/Breakpoint)
 
-  </td>
-  <td align="center" width="50%">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=Breakpoint&theme=radical&title_color=ff2a5f&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=ff2a5f&border_radius=10)](https://github.com/s6ulm9d/Breakpoint)
 
-  **🌌 COSMIC PARTICLE HUMAN**
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=3d-&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=ffffff&bg_color=0d0d0d&border_color=00ffff)](https://github.com/s6ulm9d/3d-)
-  
-  `GLSL` · `R3F` · `250K Particles`
-  
-  *GPU-accelerated real-time 3D human particle simulation. 100% shader-driven with physics-based spring scroll.*
+```
+Type    │ Offensive Security Tool
+Engine  │ Python AsyncIO + AI
+Target  │ Red Team Automation
+Status  │ 🔴 ACTIVE
+```
 
-  </td>
+</td>
+<td align="center" width="50%">
+
+### 🌌 [COSMIC PARTICLE HUMAN](https://github.com/s6ulm9d/3d-)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=3d-&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/3d-)
+
+```
+Type    │ WebGL 3D Experience
+Engine  │ R3F + Custom GLSL
+Points  │ 250,000+ particles
+Status  │ ✅ DEPLOYED
+```
+
+</td>
 </tr>
 <tr>
-  <td align="center" width="50%">
+<td align="center" width="50%">
 
-  **🏢 ALGORYX STUDIO**
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=hahaha&theme=radical&title_color=a855f7&icon_color=00ffff&text_color=ffffff&bg_color=0d0d0d&border_color=a855f7)](https://github.com/s6ulm9d/hahaha)
-  
-  `Vite MPA` · `18 Pages` · `WebGL`
-  
-  *Full SEO/GEO/AEO optimized studio site. 18-page MPA with entity disambiguation and AI-indexed structured data.*
+### 🏢 [ALGORYX STUDIO](https://github.com/s6ulm9d/hahaha)
 
-  </td>
-  <td align="center" width="50%">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=hahaha&theme=radical&title_color=a855f7&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=a855f7&border_radius=10)](https://github.com/s6ulm9d/hahaha)
 
-  **⚡ COMING SOON...**
-  
-  <br/>
-  <br/>
-  
-  ```
-  > Initializing classified project...
-  > Loading offensive payload matrix...
-  > [████████░░] 83% complete
-  > ETA: Soon™
-  ```
-  
-  `???` · `???` · `???`
-  
-  *Something extraordinary is being engineered in the shadows.*
+```
+Type    │ MPA Studio Website
+Engine  │ Vite + React + SEO
+Pages   │ 18 indexed routes
+Status  │ 🌐 LIVE @ algoryx.in
+```
 
-  </td>
+</td>
+<td align="center" width="50%">
+
+### ⚡ CLASSIFIED
+
+```
+
+  ██████████████████████████████
+  █                            █
+  █   ┌──────────────────────┐ █
+  █   │  CLEARANCE: DENIED   │ █
+  █   │  ░░░░░░░░░░ 78%      │ █
+  █   │  ETA: classified     │ █
+  █   └──────────────────────┘ █
+  █                            █
+  ██████████████████████████████
+
+```
+
+```
+Type    │ [REDACTED]
+Engine  │ [REDACTED]
+Target  │ [REDACTED]
+Status  │ 🔒 BUILDING IN SHADOWS
+```
+
+</td>
 </tr>
 </table>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS SECTION                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████ -->
+<!--                 GITHUB STATS                   -->
+<!-- ██████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20&height=70&section=header&text=%F0%9F%93%88+STATS+%26+METRICS&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 <div align="center">
-
-### `> git log --stat`
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=s6ulm9d&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00ffff&icon_color=ff2a5f&text_color=ffffff&bg_color=0d0d0d&border_color=303030&ring_color=00ffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6ulm9d&layout=compact&langs_count=8&theme=radical&title_color=ff2a5f&text_color=ffffff&bg_color=0d0d0d&border_color=303030" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=s6ulm9d&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=1a1a2e&ring_color=00ffff&border_radius=10" />
+&nbsp;&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6ulm9d&layout=compact&langs_count=8&theme=radical&title_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=1a1a2e&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=s6ulm9d&theme=radical&background=0d0d0d&border=303030&ring=00ffff&fire=ff2a5f&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=00ffff&currStreakNum=ff2a5f&dates=888888" height="180em" />
+<img src="https://streak-stats.demolab.com?user=s6ulm9d&theme=radical&background=0d0d0d&border=1a1a2e&ring=00ffff&fire=ff2a5f&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=00ffff&currStreakNum=ff2a5f&dates=888888&border_radius=10" height="185em"/>
 
 <br/><br/>
 
-<!-- GITHUB TROPHY -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=s6ulm9d&theme=radical&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 3D CONTRIBUTION CALENDAR -->
+<img src="https://raw.githubusercontent.com/s6ulm9d/s6ulm9d/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=s6ulm9d&theme=react-dark&bg_color=0d0d0d&color=00ffff&line=ff2a5f&point=ffffff&area=true&hide_border=true'" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████ -->
+<!--              ACTIVITY GRAPH                    -->
+<!-- ██████████████████████████████████████████████ -->
 
 <div align="center">
 
-### `> git log --graph --all`
+<br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s6ulm9d&theme=react-dark&bg_color=0d0d0d&color=00ffff&line=ff2a5f&point=ffffff&area_color=ff2a5f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s6ulm9d&theme=react-dark&bg_color=0d0d0d&color=00ffff&line=ff2a5f&point=ffffff&area_color=ff2a5f&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   SNAKE CONTRIBUTION GRAPH                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████ -->
+<!--            SNAKE CONTRIBUTION                  -->
+<!-- ██████████████████████████████████████████████ -->
 
 <div align="center">
 
-### `> ./snake.py --eat-contributions`
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s6ulm9d/s6ulm9d/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s6ulm9d/s6ulm9d/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s6ulm9d/s6ulm9d/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/s6ulm9d/s6ulm9d/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2&section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONNECT SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████ -->
+<!--                  CONNECT                       -->
+<!-- ██████████████████████████████████████████████ -->
 
 <div align="center">
 
-### `> curl -X CONNECT algoryx.in`
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FF2A5F&center=true&vCenter=true&width=700&lines=%22Every+system+has+a+flaw.+Find+it+before+they+do.%22;%22Engineering+at+the+intersection+of+art+%26+chaos.%22;%22250%2C000+particles.+60fps.+Zero+compromises.%22;%22Demystifying+cyber-warfare+one+payload+at+a+time.%22)](https://algoryx.in)
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_algoryx.in-Visit_Studio-00ffff?style=for-the-badge&labelColor=0d0d0d)](https://algoryx.in)
-[![Email](https://img.shields.io/badge/📧_admin@algoryx.in-Contact-ff2a5f?style=for-the-badge&labelColor=0d0d0d)](mailto:admin@algoryx.in)
-[![GitHub](https://img.shields.io/badge/GitHub-@s6ulm9d-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s6ulm9d)
+[![Website](https://img.shields.io/badge/🌐_algoryx.in-000?style=for-the-badge&logoColor=white)](https://algoryx.in)
+[![Email](https://img.shields.io/badge/📧_admin@algoryx.in-ff2a5f?style=for-the-badge&logoColor=white)](mailto:admin@algoryx.in)
+[![GitHub](https://img.shields.io/badge/GitHub-@s6ulm9d-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s6ulm9d)
 
 <br/>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=FF2A5F&center=true&vCenter=true&width=600&lines=%22Demystifying+cyber-warfare+to+build+a+more+resilient+digital+world.%22;%22Engineering+at+the+intersection+of+art+and+adversarial+systems.%22;%22Every+system+has+a+flaw.+Find+it+before+they+do.%22" alt="Quote" />
-
-<br/>
-
-*Built with ❤️ and way too much caffeine · [algoryx.in](https://algoryx.in)*
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           SNAKE GITHUB ACTIONS WORKFLOW SETUP INSTRUCTIONS     -->
-<!--    Create .github/workflows/snake.yml to auto-generate snake   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Built+with+%E2%9D%A4%EF%B8%8F+%26+way+too+much+caffeine&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=62" width="100%"/>
