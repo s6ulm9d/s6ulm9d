@@ -230,6 +230,48 @@ Status  │ ✅ COMPLETED
 
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+
+### 🌐 [3D PARTICLE GRID](https://github.com/s6ulm9d/grid)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=grid&theme=radical&title_color=f43f5e&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=f43f5e&border_radius=10)](https://github.com/s6ulm9d/grid)
+
+```
+Type    │ WebGL 3D Simulation
+Engine  │ Three.js + GLSL + HTML5
+Model   │ Glowing neon particle grid
+Status  │ ✅ COMPLETED
+```
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ CLASSIFIED
+
+```
+
+  ██████████████████████████████
+  █                            █
+  █   ┌──────────────────────┐ █
+  █   │  CLEARANCE: DENIED   │ █
+  █   │  ░░░░░░░░░░ 78%      │ █
+  █   │  ETA: classified     │ █
+  █   └──────────────────────┘ █
+  █                            █
+  ██████████████████████████████
+
+```
+
+```
+Type    │ [REDACTED]
+Engine  │ [REDACTED]
+Target  │ [REDACTED]
+Status  │ 🔒 BUILDING IN SHADOWS
+```
+
+</td>
+</tr>
 </table>
 
 </div>
