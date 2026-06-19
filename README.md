@@ -50,7 +50,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=00FFFF&center=true&vCenter=true&width=320&lines=%24+ping+algoryx.in;PONG+%E2%80%94+64+bytes+from+algoryx.in;%24+nmap+-sV+reality.sh;PORT+443%2Ftcp+open+%5Bdreams%5D;%24+exploit+--target+limits;%5BSHELL+OBTAINED%5D+%F0%9F%92%80;%24+cat+%2Fetc%2Fshadow;Access+granted.+Build+mode+ON.)](https://algoryx.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=00FFFF&center=true&vCenter=true&width=320&lines=%24+ping+algoryx.in;PONG+%E2%80%94+64+bytes+from+algoryx.in;%24+nmap+-sV+algoryx.in;PORT+443%2Ftcp+open+secure-https;%24+exploit+--target+sandbox;%5BSHELL+OBTAINED%5D+%F0%9F%92%80;%24+cat+%2Fetc%2Fshadow;Access+granted.+Build+mode+ON.)](https://algoryx.in)
 
 <br/>
 
@@ -217,27 +217,15 @@ Status  │ 🌐 LIVE @ algoryx.in
 </td>
 <td align="center" width="50%">
 
-### ⚡ CLASSIFIED
+### ♻️ [E-CONNECTO](https://github.com/s6ulm9d/E-Connecto)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=E-Connecto&theme=radical&title_color=10b981&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=10b981&border_radius=10)](https://github.com/s6ulm9d/E-Connecto)
 
 ```
-
-  ██████████████████████████████
-  █                            █
-  █   ┌──────────────────────┐ █
-  █   │  CLEARANCE: DENIED   │ █
-  █   │  ░░░░░░░░░░ 78%      │ █
-  █   │  ETA: classified     │ █
-  █   └──────────────────────┘ █
-  █                            █
-  ██████████████████████████████
-
-```
-
-```
-Type    │ [REDACTED]
-Engine  │ [REDACTED]
-Target  │ [REDACTED]
-Status  │ 🔒 BUILDING IN SHADOWS
+Type    │ E-Waste Management Web App
+Engine  │ React + TypeScript + Tailwind
+Service │ Recycler pickups & tracking
+Status  │ ✅ COMPLETED
 ```
 
 </td>
@@ -267,9 +255,6 @@ Status  │ 🔒 BUILDING IN SHADOWS
 <img src="https://streak-stats.demolab.com?user=s6ulm9d&theme=radical&background=0d0d0d&border=1a1a2e&ring=00ffff&fire=ff2a5f&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=00ffff&currStreakNum=ff2a5f&dates=888888&border_radius=10" height="185em"/>
 
 <br/><br/>
-
-<!-- 3D CONTRIBUTION CALENDAR -->
-<img src="https://raw.githubusercontent.com/s6ulm9d/s6ulm9d/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=s6ulm9d&theme=react-dark&bg_color=0d0d0d&color=00ffff&line=ff2a5f&point=ffffff&area=true&hide_border=true'" />
 
 </div>
 
@@ -319,8 +304,8 @@ Status  │ 🔒 BUILDING IN SHADOWS
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_algoryx.in-000?style=for-the-badge&logoColor=white)](https://algoryx.in)
-[![Email](https://img.shields.io/badge/📧_admin@algoryx.in-ff2a5f?style=for-the-badge&logoColor=white)](mailto:admin@algoryx.in)
+[![Website](https://img.shields.io/badge/🌐_algoryx.in-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://algoryx.in)
+[![Email](https://img.shields.io/badge/📧_admin@algoryx.in-ff2a5f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@algoryx.in)
 [![GitHub](https://img.shields.io/badge/GitHub-@s6ulm9d-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s6ulm9d)
 
 <br/>
