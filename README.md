@@ -54,7 +54,7 @@ Status   : Building something crazy... 🔥
 <td width="50%" valign="top">
 
 **🔒 Offensive Engineering**
-> Designing automated security validation engines to test and build resilient defensive architectures. Real-world adversarial emulation — not compliance theatre.
+> Designing automated security validation engines (like [BREAKPOINT](https://github.com/s6ulm9d/Breakpoint)) to test and build resilient defensive architectures. Real-world adversarial emulation — not compliance theatre.
 
 - Red Teaming & Custom Payload Engineering
 - AI-driven adaptive attack chains
@@ -141,7 +141,7 @@ Status   : Building something crazy... 🔥
 
   **🔒 BREAKPOINT**
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=break-point&theme=radical&title_color=ff2a5f&icon_color=00ffff&text_color=ffffff&bg_color=0d0d0d&border_color=ff2a5f)](https://github.com/s6ulm9d/break-point)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=Breakpoint&theme=radical&title_color=ff2a5f&icon_color=00ffff&text_color=ffffff&bg_color=0d0d0d&border_color=ff2a5f)](https://github.com/s6ulm9d/Breakpoint)
   
   `AsyncIO` · `AI Payloads` · `Red Team`
   
