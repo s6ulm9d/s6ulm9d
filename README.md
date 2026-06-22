@@ -247,6 +247,22 @@ Status  │ ✅ COMPLETED
 </td>
 <td align="center" width="50%">
 
+### 💳 [CHADWALLET](https://github.com/s6ulm9d/chadwallet)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=chadwallet&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/chadwallet)
+
+```
+Type    │ Solana Meme Wallet UI
+Engine  │ Next.js + TS + Tailwind
+Service │ Real-time Charts & Swap
+Status  │ ✅ DEPLOYED
+```
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" width="100%">
+
 ### ⚡ CLASSIFIED
 
 ```
@@ -264,10 +280,8 @@ Status  │ ✅ COMPLETED
 ```
 
 ```
-Type    │ [REDACTED]
-Engine  │ [REDACTED]
-Target  │ [REDACTED]
-Status  │ 🔒 BUILDING IN SHADOWS
+Type    │ [REDACTED]                                     Engine  │ [REDACTED]
+Target  │ [REDACTED]                                     Status  │ 🔒 BUILDING IN SHADOWS
 ```
 
 </td>
