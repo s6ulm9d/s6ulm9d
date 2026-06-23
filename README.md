@@ -263,25 +263,15 @@ Status  │ ✅ DEPLOYED
 <tr>
 <td align="center" colspan="2" width="100%">
 
-### ⚡ CLASSIFIED
+### 🤖 [AUTOMATION](https://github.com/s6ulm9d/automation)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=automation&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/automation)
 
 ```
-
-  ██████████████████████████████
-  █                            █
-  █   ┌──────────────────────┐ █
-  █   │  CLEARANCE: DENIED   │ █
-  █   │  ░░░░░░░░░░ 78%      │ █
-  █   │  ETA: classified     │ █
-  █   └──────────────────────┘ █
-  █                            █
-  ██████████████████████████████
-
-```
-
-```
-Type    │ [REDACTED]                                     Engine  │ [REDACTED]
-Target  │ [REDACTED]                                     Status  │ 🔒 BUILDING IN SHADOWS
+Type    │ Autonomous Job Search and Application SaaS Platform
+Engine  │ Next.js 15 (React/TS) + FastAPI (Python) + Celery (Redis) + Playwright
+Browser │ Headful Playwright agent with custom CAPTCHA/Interruption detection
+Status  │ 🚀 ACTIVE
 ```
 
 </td>
