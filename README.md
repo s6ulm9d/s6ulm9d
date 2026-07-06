@@ -208,9 +208,9 @@ Status  │ ✅ DEPLOYED
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=hahaha&theme=radical&title_color=a855f7&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=a855f7&border_radius=10)](https://github.com/s6ulm9d/hahaha)
 
 ```
-Type    │ MPA Studio Website
-Engine  │ Vite + React + SEO
-Pages   │ 18 indexed routes
+Type    │ MPA Studio Website + Backend
+Engine  │ Vite + React + Supabase + SEO
+Features│ 3D Community Platform & Asset Pipeline
 Status  │ 🌐 LIVE @ algoryx.in
 ```
 
