@@ -261,6 +261,8 @@ Status  │ ✅ DEPLOYED
 </td>
 </tr>
 <tr>
+<td colspan="2" align="center">
+
 ### 🤖 [AUTOMATION](https://github.com/s6ulm9d/automation)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=automation&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/automation)
