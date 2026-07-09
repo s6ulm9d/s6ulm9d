@@ -54,7 +54,7 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=s6ulm9d&theme=radical&column=3&margin-w=6&margin-h=6&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=s6ulm9d&theme=radical&column=3&margin-w=6&margin-h=6&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 
 </td>
 </tr>
@@ -175,7 +175,7 @@ philosophy: >
 
 ### 🔒 [BREAKPOINT](https://github.com/s6ulm9d/Breakpoint)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=Breakpoint&theme=radical&title_color=ff2a5f&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=ff2a5f&border_radius=10)](https://github.com/s6ulm9d/Breakpoint)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=s6ulm9d&repo=Breakpoint&theme=radical&title_color=ff2a5f&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=ff2a5f&border_radius=10)](https://github.com/s6ulm9d/Breakpoint)
 
 ```
 Type    │ Offensive Security Tool
@@ -189,7 +189,7 @@ Status  │ 🔴 ACTIVE
 
 ### 🌌 [COSMIC PARTICLE HUMAN](https://github.com/s6ulm9d/3d-)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=3d-&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/3d-)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=s6ulm9d&repo=3d-&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/3d-)
 
 ```
 Type    │ WebGL 3D Experience
@@ -205,7 +205,7 @@ Status  │ ✅ DEPLOYED
 
 ### 🏢 [ALGORYX STUDIO](https://github.com/s6ulm9d/hahaha)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=hahaha&theme=radical&title_color=a855f7&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=a855f7&border_radius=10)](https://github.com/s6ulm9d/hahaha)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=s6ulm9d&repo=hahaha&theme=radical&title_color=a855f7&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=a855f7&border_radius=10)](https://github.com/s6ulm9d/hahaha)
 
 ```
 Type    │ MPA Studio Website + Backend
@@ -219,7 +219,7 @@ Status  │ 🌐 LIVE @ algoryx.in
 
 ### ♻️ [E-CONNECTO](https://github.com/s6ulm9d/E-Connecto)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=E-Connecto&theme=radical&title_color=10b981&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=10b981&border_radius=10)](https://github.com/s6ulm9d/E-Connecto)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=s6ulm9d&repo=E-Connecto&theme=radical&title_color=10b981&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=10b981&border_radius=10)](https://github.com/s6ulm9d/E-Connecto)
 
 ```
 Type    │ E-Waste Management Web App
@@ -235,7 +235,7 @@ Status  │ ✅ COMPLETED
 
 ### 🌐 [3D PARTICLE GRID](https://github.com/s6ulm9d/grid)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=grid&theme=radical&title_color=f43f5e&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=f43f5e&border_radius=10)](https://github.com/s6ulm9d/grid)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=s6ulm9d&repo=grid&theme=radical&title_color=f43f5e&icon_color=00ffff&text_color=c9d1d9&bg_color=0d0d0d&border_color=f43f5e&border_radius=10)](https://github.com/s6ulm9d/grid)
 
 ```
 Type    │ WebGL 3D Simulation
@@ -249,7 +249,7 @@ Status  │ ✅ COMPLETED
 
 ### 💳 [CHADWALLET](https://github.com/s6ulm9d/chadwallet)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=chadwallet&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/chadwallet)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=s6ulm9d&repo=chadwallet&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/chadwallet)
 
 ```
 Type    │ Solana Meme Wallet UI
@@ -265,7 +265,7 @@ Status  │ ✅ DEPLOYED
 
 ### 🤖 [AUTOMATION](https://github.com/s6ulm9d/automation)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=s6ulm9d&repo=automation&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/automation)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=s6ulm9d&repo=automation&theme=radical&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=00ffff&border_radius=10)](https://github.com/s6ulm9d/automation)
 
 ```
 Type    │ Autonomous Job Search and Application SaaS Platform
@@ -293,9 +293,9 @@ Status  │ 🚀 ACTIVE
 
 <br/>
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=s6ulm9d&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=1a1a2e&ring_color=00ffff&border_radius=10" />
+<img height="185em" src="https://github-stats-extended.vercel.app/api?username=s6ulm9d&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00ffff&icon_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=1a1a2e&ring_color=00ffff&border_radius=10" />
 &nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6ulm9d&layout=compact&langs_count=8&theme=radical&title_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=1a1a2e&border_radius=10" />
+<img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=s6ulm9d&layout=compact&langs_count=8&theme=radical&title_color=ff2a5f&text_color=c9d1d9&bg_color=0d0d0d&border_color=1a1a2e&border_radius=10" />
 
 <br/><br/>
 
