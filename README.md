@@ -41,7 +41,7 @@
 ║  ├── AI-Integrated Automation            ║
 ║  └── 3D Interactive Web Experiences      ║
 ╠══════════════════════════════════════════╣
-║  STATUS   ›  🔴 BUILDING IN STEALTH      ║
+║  STATUS   ›  ⚡ OPTIMIZING 3D PIPELINE    ║
 ╚══════════════════════════════════════════╝
 ```
 
@@ -210,7 +210,7 @@ Status  │ ✅ DEPLOYED
 ```
 Type    │ MPA Studio Website + Backend
 Engine  │ Vite + React + Supabase + SEO
-Features│ 3D Community Platform & Asset Pipeline
+Features│ Real-time 3D Asset Feed, Synced Likes/Saves, and Analytics
 Status  │ 🌐 LIVE @ algoryx.in
 ```
 
