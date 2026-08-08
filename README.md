@@ -33,7 +33,7 @@
 ║  name     ›  Megha Sairaj                ║
 ║  role     ›  Engineer / Founder          ║
 ║  studio   ›  Algoryx [algoryx.in]        ║
-║  location ›  India 🇮🇳                   ║
+║  location ›  Hyderabad, Telangana, India 🇮🇳   ║
 ╠══════════════════════════════════════════╣
 ║  SPECIALIZATION                          ║
 ║  ├── WebGL & GPU Particle Systems        ║
